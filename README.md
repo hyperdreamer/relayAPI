@@ -87,6 +87,14 @@ Gemini现在好多渠道都用不了,或者响应速度巨慢, 用下来只有Pa
 
 新人注册送1元, 可以先试试再决定购买.  最少充值50块, 支持开发票.
 
+### [SudoCode](https://www.hvoy.ai/sites/sudocodechat)
+看名字就知道是一个专门编程的站点.
+这是一个 2026 年刚成立的站, 站点对于模型支持非常快速. 新的模型基本第一时间就能上线.
+
+模型方面, 目前gpt5.6 sol价格是人民币¥1(进)6(出)/一百万Token,  Opus5的满血 CC Max 渠道价格是人民币¥7(进)35(出)/一百万Token, 这两个的价格都还不错.
+
+网站支持退款, 可以开发票.
+
 ### [RightCode](https://www.hvoy.ai/leaderboard)
 就是为编程准备的, 只支持Claude, Gemini和GPT的接口. 
 
@@ -103,6 +111,7 @@ Gemini系列的接口也很便宜, 大概是官网价格的1折.
 最少可以充1元 , 获得5元的额度, 先试试效果.
 
 文档非常清晰, 接口响应速度比较快.
+
 
 
 ### [我的贾维斯](https://www.hvoy.ai/sites/apiaijwscom)
