@@ -95,24 +95,6 @@ Gemini现在好多渠道都用不了,或者响应速度巨慢, 用下来只有Pa
 
 网站支持退款, 可以开发票.
 
-### [RightCode](https://www.hvoy.ai/leaderboard)
-就是为编程准备的, 只支持Claude, Gemini和GPT的接口. 
-
-值得推荐的渠道是 /claude 渠道, Fable-5 价格是人民币¥20(进)100(出)/一百万Token. 
-
-质量也不错, 对的起这个价格.
-
-GPT 系列还可以, GPT 5.6 Sol是人民币¥2(进)12(出)/一百万Token, 不是特别稳定, 但是还可以. 但是我自己使用时, 发现 Token 消耗有点高.
-
-Gemini系列的接口也很便宜, 大概是官网价格的1折.
-
-有网友说有时拿别的模型掺水. 
-
-最少可以充1元 , 获得5元的额度, 先试试效果.
-
-文档非常清晰, 接口响应速度比较快.
-
-
 
 ### [我的贾维斯](https://www.hvoy.ai/sites/apiaijwscom)
 这个站是今年6月初上线的，上线后凭借价格优势和服务发展迅速。充值是1RMB=1刀，GPT 5.6 Sol 输入价格 0.5 元/百万 tokens（Pro 号池0.1倍率），Fable-5 输入价格 10 元/百万 tokens（Max 号池 1倍率）。支持开票 + 支持对公，客服响应速度快。
@@ -228,6 +210,24 @@ GPT5.6 价格是人民币 14/84 一百万 Token, GPT5.4 价格是人民币 28/16
 
 btw:这个站点的域名老容易打错.
 
+
+### [RightCode](https://www.hvoy.ai/leaderboard)
+**但是这个站点最近好像有一些负面消息, 先不做评价, 等网友结论吧**
+
+就是为编程准备的, 只支持Claude, Gemini和GPT的接口.  
+
+值得推荐的渠道是 /claude 渠道, Fable-5 价格是人民币¥20(进)100(出)/一百万Token. 
+
+质量也不错, 对的起这个价格.
+
+GPT 系列还可以, GPT 5.6 Sol是人民币¥2(进)12(出)/一百万Token, 不是特别稳定, 但是我自己使用时, 发现 Token 消耗有点高.
+
+Gemini系列的接口也很便宜, 大概是官网价格的1折.
+
+有网友说有时拿别的模型掺水. 
+
+最少可以充1元 , 获得5元的额度, 先试试效果.
+
 ## 中性
 
 ### [Chintao AI](https://www.hvoy.ai/sites/chintaocn)
@@ -244,7 +244,7 @@ ModCon是25年11月成立的一个站, GPT系列做的还不错.
 GPT 5.6 Sol的价格是0.9, 挺稳定的.
 
 
-### [aigocode.com](https://www.hvoy.ai/sites/apiaigocodecom)
+### [aigocode.com](https://www.hvoy.ai/leaderboard)
 aigocode是一个口碑还不错的APIKEY网站, 目前没有发现用低价模型代替高级模型的情况. 我自己用的这段时间稳定性还行.
 模型方面只有Claude, GPT和 Gemini. 支持 Claude 4.6 & Codex 5.3 & Gemini 3.
 
